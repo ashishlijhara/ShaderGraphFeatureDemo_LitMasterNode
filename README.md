@@ -2,7 +2,7 @@
 
 **Read the official [Blog Post](https://blogs.unity3d.com/2018/12/19/unity-2018-3-shader-graph-update-lit-master-node/).**
 
-**This Project is intended to work with Unity release [2013.3](https://unity3d.com/get-unity/update).**
+**This Project is intended to work with Unity release [2018.3](https://unity3d.com/get-unity/update).**
 
 With the release of 2018.3, Shader Graph introduces a new Master Node for the High Definition Render Pipeline. 
 This new Master Node (called Lit Master) makes many of the advanced shading features found in HDRP accessible in Shader Graph!
